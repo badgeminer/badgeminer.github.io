@@ -1,4 +1,4 @@
 <head>
   {% favicon %}
-  <head>
+  </head>
 hi
