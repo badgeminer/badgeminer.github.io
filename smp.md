@@ -8,4 +8,4 @@
 <tr><td>5</td><td>none</td><td>none</td><td>?????</td><td>5</td><td>user name unknowen</td></tr>
 <tr><td>6</td><td>none</td><td>none</td><td>?????</td><td>5</td><td>user name unknowen</td></tr>
 </table>
-
+<a href="https://badgeminer.github.io/smp/locs">locations</a>
