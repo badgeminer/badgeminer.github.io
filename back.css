@@ -14,7 +14,7 @@ p {
 body::after {
     content: '';
     background: linear-gradient(#00000000 0%, #1c1d31 90%),
-    url(furfsky.net/assets/banner.svg) no-repeat;
+    url(http://furfsky.net/assets/banner.svg) no-repeat;
     background-size: cover;
     background-position: center;
     position: fixed;
