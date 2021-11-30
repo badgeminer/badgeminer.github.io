@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
   "label": "status",
-  "message": "not uploading\npc broken",
-  "color": "red"
+  "message": "all good",
+  "color": "green"
 }
