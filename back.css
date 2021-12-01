@@ -16,8 +16,3 @@ body {
     z-index: -1;
 }
 
-svg {
-    fill: var(--furf-gold);
-    transition: 200ms;
-    width: 5rem;
-}
