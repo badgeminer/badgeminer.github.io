@@ -6,6 +6,14 @@ body {
     font-family: "Minecraft", sans-serif;
     background: linear-gradient(#00000000 0%, #1c1d31 90%),
     url(banner.svg) no-repeat;
+    background-size: cover;
+    background-position: center;
+    position: fixed;
+    top: -8rem;
+    bottom: 0;
+    left: -8rem;
+    right: -8rem;
+    z-index: -1;
 }
 
 svg {
