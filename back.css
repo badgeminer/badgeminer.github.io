@@ -4,5 +4,6 @@ body {
     background-position: center;
     position: fixed;
     background-repeat: no-repeat;
+    padding: 35px;
 }
 
