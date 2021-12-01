@@ -4,8 +4,8 @@ html {
 
 body {
     font-family: "Minecraft", sans-serif;
-    background: linear-gradient(#00000000 0%, #1c1d31 90%),
-    url(banner.svg) no-repeat;
+    background: linear-gradient(#00000000 0%, #1c1d31 90%);
+    background-image: url(banner.svg) no-repeat;
     background-size: cover;
     background-position: center;
     position: fixed;
