@@ -7,3 +7,8 @@ body {
     background-image: url(https://badgeminer.github.io/back.svg) no-repeat;
 }
 
+svg {
+    fill: var(--furf-gold);
+    transition: 200ms;
+    width: 5rem;
+}
